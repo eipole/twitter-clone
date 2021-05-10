@@ -14,7 +14,7 @@ export default function Heading(props) {
       <Row className="d-flex align-items-center">
         {backButton && <BackButton />}
         {showProfileButton && <ButtonProfile />}
-        <h5 className="my-3 mx-2 font-weight-bold">title</h5>
+        <h5 className="my-3 mx-2 font-weight-bold">{title}</h5>
       </Row>
       {btnLogout && <LogoutButton />}
     </div>

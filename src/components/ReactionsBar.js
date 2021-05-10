@@ -4,7 +4,7 @@ import { faComment as commentSolid } from "@fortawesome/free-solid-svg-icons/faC
 import { faHeart as heartSolid } from "@fortawesome/free-solid-svg-icons/faHeart"
 import { faReply } from "@fortawesome/free-solid-svg-icons/faReply"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { Popover } from "bootstrap"
+// import { Popover } from "bootstrap"
 import React from "react"
 import { Dropdown } from "react-bootstrap"
 import { Link } from "react-router-dom"
